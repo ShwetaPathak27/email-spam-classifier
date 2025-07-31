@@ -81,7 +81,7 @@ json
 }
 
 🌐 Live Demo
-
+https://www.linkedin.com/posts/shweta-pathak-09a023295_machinelearning-fastapi-python-activity-7356644278590230528-yiqT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEdfRrYB42UT_DC51AQyb2sW8fNnS7Ijmho
 
 📁 Git LFS Note
 CSV files are tracked using Git LFS. Ensure you have Git LFS installed before cloning:
