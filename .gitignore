@@ -1,0 +1,14 @@
+# Ignore large CSV files
+#cleaned_email_dataset.csv
+#email_spam_dataset.csv
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore model files (optional)
+*.pkl
+
+# Ignore VSCode or IDE files (optional)
+.vscode/
+.idea/
